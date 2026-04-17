@@ -26,7 +26,7 @@ This project focuses on creating an interactive UI with real-time playback contr
 
 ---
 
-## 📸 Screenshots
+
 
 ## 📸 Screenshots
 
