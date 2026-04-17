@@ -1,16 +1,38 @@
-# React + Vite
+#  Spotify Frontend (Basic)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and responsive frontend inspired by Spotify, built to deliver a smooth music listening experience with essential player functionalities.
 
-Currently, two official plugins are available:
+This project focuses on creating an interactive UI with real-time playback controls and intuitive user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+##  Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- ▶️ Play / Pause songs  
+- ⏩ Seekbar functionality (track progress control)  
+- 🎵 Display songs and albums  
+- 💿 View album-wise songs  
+- 🎨 Responsive UI with modern design  
+- ⚡ Smooth user interactions  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Tech Stack
+
+- **Frontend:** React.js  
+- **Styling:** Tailwind CSS  
+- **State Management:** React Hooks (useState, useContext)  
+- **Build Tool:** Vite  
+
+---
+
+## 📸 Screenshots
+
+## 📸 Screenshots
+
+###  Home Page & player
+![Home UI](./screenshots/home.png)
+
+<p align="center">
+  <img src="./screenshots/album.png" width="60%" />
+</p>
