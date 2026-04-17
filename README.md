@@ -31,7 +31,7 @@ This project focuses on creating an interactive UI with real-time playback contr
 ## 📸 Screenshots
 
 ###  Home Page & player
-![Home UI](./screenshots/home.png)
+![Home UI](./screenshots/home_page.png)
 
 <p align="center">
   <img src="./screenshots/album.png" width="60%" />
